@@ -1,0 +1,569 @@
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\Sie\source\repos\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csprojAssemblyReference.cache
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\qsier\OneDrive\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\Sie\Desktop\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\DotchCloud007\Desktop\DSA System\5 NEW UI PLUS ADD SECTION AND DATABASE\5 NEW UI PLUS ADD SECTION AND NEW DATABASE\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csprojAssemblyReference.cache
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\Sie\Desktop\C# code practice\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\DotchCloud007\Desktop\DSA System\LATEST\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\SGS\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\tracy\OneDrive\Documents\bscs\ITEC 204\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Scores.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Subjects.resources
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\qsier\OneDrive\Desktop\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.AssemblyReference.cache
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe.config
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.exe
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\schoolgradingsystem.pdb
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\ZstdSharp.dll
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\MySql.Data.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Buffers.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Memory.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.AddSection.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.addstudent.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.DashboardForm.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.EditSectionForm.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Form1.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.GradeCalculator.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Grades.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Properties.Resources.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.RegistrationForm.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Schedule.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.Students.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.studentsinfo.resources
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.GenerateResource.cache
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sie\Desktop\14 LATEST GRADING CALC UPDATED\grading system - new\schoolgradingsystem\schoolgradingsystem\obj\Debug\schoolgradingsystem.csproj.CopyComplete
