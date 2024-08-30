@@ -59,16 +59,13 @@ This project is a Windows Forms application for managing student information and
    - The DataGridView is updated automatically after each calculation and database update. 
 
 ## Media Preview
-![Screenshot 2024-08-29 005511](https://github.com/user-attachments/assets/3eacbcab-fe2a-41ee-9347-397fadf38c50)
-![Screenshot 2024-08-29 005847](https://github.com/user-attachments/assets/1c28f7a0-5aba-4939-bf8f-9cdae927c094)
-![Screenshot 2024-08-29 010024](https://github.com/user-attachments/assets/fad91fce-8b90-4792-8258-72c684b8c22d)
-![Screenshot 2024-08-29 010137](https://github.com/user-attachments/assets/fa55cc64-1c67-4724-a89f-e88fa2d603c9)
-![Screenshot 2024-08-29 010223](https://github.com/user-attachments/assets/94ba89a1-114a-49b0-89fd-ffd2ad5ed9f9)
-![Screenshot 2024-08-29 010346](https://github.com/user-attachments/assets/abb3378e-3eff-4d0b-9aac-4c0c924e7134)
-![Screenshot 2024-08-29 010605](https://github.com/user-attachments/assets/6d630c8b-f165-4a7a-923b-6016c1ca078c)
-![Screenshot 2024-08-29 010605](https://github.com/user-attachments/assets/c0186757-89ac-4475-a748-f71ae855b431)
-![Screenshot 2024-08-29 010810](https://github.com/user-attachments/assets/0736df49-b928-408e-ae56-0b1baffa3954)
+<p align="center">
+  <img src="https://github.com/sie-hanamura/MINHS-School-Grading-System/blob/main/images/media%20preview.png"/>
+</p>
 
+<p align="center">
+   <img src="https://github.com/sie-hanamura/MINHS-School-Grading-System/blob/main/images/Grading_Calc_Preview.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="407" />
+</p>
 
 ## Contributing
 
